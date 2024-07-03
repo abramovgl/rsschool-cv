@@ -16,11 +16,11 @@ I'm work as an tecnical support in mediabuying holding. I responding for domaign
 3. **Tools:**
   - VScode
 
-  ## Code example:
-  Haven't yet.
+## Code example:
+Haven't yet.
 
-  ## Work experience:
-  Quite a bit rewrote the landing page. Set up the correct redirect from landing page to offerpage.
+## Work experience:
+Quite a bit rewrote the landing page. Set up the correct redirect from landing page to offerpage.
 
-  ## Education:
-  __Specialist degree in__ - "The state university of maritime and inland shipping of admiral S.O.Makarov
+## Education:
+__Specialist degree in__ - "The state university of maritime and inland shipping of admiral S.O.Makarov
