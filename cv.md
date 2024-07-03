@@ -15,3 +15,5 @@ I'm work as an tecnical support in mediabuying holding. I responding for domaign
   - VScode
   ## Code example:
   Haven't yet.
+  ## Work expirience:
+  Quite a bit rewrote the landing page. Set up the correct redirect from landing page to offerpage.
