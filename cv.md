@@ -4,3 +4,4 @@
 2. **email:** truf.gl@gmail.com
 3. **phone:** 89811960493
 ## About me:
+I'm work as an tecnical support in mediabuying holding. I responding for domaigns, integration between tracker system and affilate partners. I also add new offers in our system. Recently i start working with landing pages (rewrite/add new information/ change text etc.) Since it became interesting to me, I decided to go deeper into learning HTML/CSS/JS.
