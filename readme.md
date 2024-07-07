@@ -1,1 +1,1 @@
- https://abramovgl.github.io/rsschool-cv/cv
+ https://abramovgl.github.io/rsschool-cv/
